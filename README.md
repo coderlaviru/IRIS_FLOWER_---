@@ -391,7 +391,7 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![png](new-folder/output_19_0.png)
     
 
 
@@ -405,7 +405,7 @@ plt.show()
 
 
     
-![png](output_20_0.png)
+![png](new-folder/output_20_0.png)
     
 
 
@@ -418,7 +418,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](new-folder/output_21_0.png)
     
 
 
@@ -720,7 +720,7 @@ plt.show()
 
 
     
-![png](output_36_0.png)
+![png](new-folder/output_36_0.png)
     
 
 
@@ -756,7 +756,7 @@ plt.show()
 
 
     
-![png](output_39_0.png)
+![png](new-folder/output_39_0.png)
     
 
 
@@ -785,7 +785,7 @@ plt.show()
 
 
     
-![png](output_41_0.png)
+![png](new-folder/output_41_0.png)
     
 
 
@@ -814,7 +814,7 @@ plt.show()
 
 
     
-![png](output_43_0.png)
+![png](new-folder/output_43_0.png)
     
 
 
@@ -844,7 +844,7 @@ plt.show()
 
 
     
-![png](output_45_0.png)
+![png](new-folder/output_45_0.png)
     
 
 
@@ -868,7 +868,7 @@ plt.show()
 
 
     
-![png](output_47_0.png)
+![png](new-folder/output_47_0.png)
     
 
 
@@ -1032,7 +1032,7 @@ lr_score = evaluate_model(lr_model, x_train, x_test, y_train, y_test)
 
 
     
-![png](output_62_1.png)
+![png](new-folder/output_62_1.png)
     
 
 
@@ -1163,7 +1163,7 @@ lr_score2 = evaluate_model(lr_model2, x_train, x_test, y_train, y_test)
 
 
     
-![png](output_67_1.png)
+![png](new-folder/output_67_1.png)
     
 
 
@@ -1281,7 +1281,7 @@ dt_score = evaluate_model(dt_model, x_train, x_test, y_train, y_test)
 
 
     
-![png](output_73_1.png)
+![png](new-folder/output_73_1.png)
     
 
 
@@ -1430,7 +1430,7 @@ dt2_score = evaluate_model(dt_model2, x_train, x_test, y_train, y_test)
 
 
     
-![png](output_78_1.png)
+![png](new-folder/output_78_1.png)
     
 
 
@@ -1564,7 +1564,7 @@ rf_score = evaluate_model(rf_model, x_train, x_test, y_train, y_test)
 
 
     
-![png](output_84_1.png)
+![png](new-folder/output_84_1.png)
     
 
 
@@ -1731,7 +1731,7 @@ rf2_score = evaluate_model(rf_model2, x_train, x_test, y_train, y_test)
 
 
     
-![png](output_89_1.png)
+![png](new-folder/output_89_1.png)
     
 
 
@@ -1882,7 +1882,7 @@ svm_score = evaluate_model(svm_model, x_train, x_test, y_train, y_test)
 
 
     
-![png](output_94_1.png)
+![png](new-folder/output_94_1.png)
     
 
 
@@ -2067,7 +2067,7 @@ svm2_score = evaluate_model(svm_model2, x_train, x_test, y_train, y_test)
 
 
     
-![png](output_99_1.png)
+![png](new-folder/output_99_1.png)
     
 
 
@@ -2233,7 +2233,7 @@ xgb_score = evaluate_model(xgb_model, x_train, x_test, y_train, y_test)
 
 
     
-![png](output_104_1.png)
+![png](new-folder/output_104_1.png)
     
 
 
@@ -2436,7 +2436,7 @@ xgb2_score = evaluate_model(xgb_model2, x_train, x_test, y_train, y_test)
 
 
     
-![png](output_109_1.png)
+![png](new-folder/output_109_1.png)
     
 
 
@@ -2618,7 +2618,7 @@ nb_score = evaluate_model(nb_model, x_train, x_test, y_train, y_test)
 
 
     
-![png](output_113_1.png)
+![png](new-folder/output_113_1.png)
     
 
 
@@ -2834,7 +2834,7 @@ nb2_score = evaluate_model(nb_model2, x_train, x_test, y_train, y_test)
 
 
     
-![png](output_118_1.png)
+![png](new-folder/output_118_1.png)
     
 
 
@@ -3036,7 +3036,7 @@ neural_score = evaluate_model(nn_model, x_train, x_test, y_train, y_test)
 
 
     
-![png](output_123_1.png)
+![png](new-folder/output_123_1.png)
     
 
 
@@ -3273,7 +3273,7 @@ neural2_score = evaluate_model(nn_model2, x_train, x_test, y_train, y_test)
 
 
     
-![png](output_128_1.png)
+![png](new-folder/output_128_1.png)
     
 
 
